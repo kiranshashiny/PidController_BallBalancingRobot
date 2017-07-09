@@ -28,3 +28,19 @@ See the Fritzing circuit diagram in this repo for how these components were conn
 See the video of this in action.
 
 https://youtu.be/4OqoyEGJDGM
+
+
+
+Some of the links that helped me when learning this component.
+
+https://drive.google.com/folderview?id=0Bx4uoJmyE27YdGRMYi16dnUxVk0&usp=sharing
+
+http://mechatronicstutorials.blogspot.in/2014/07/balancing-of-ball-on-beam-using-arduino.html
+
+http://howtomechatronics.com/tutorials/arduino/ultrasonic-sensor-hc-sr04/
+
+http://www.instructables.com/id/Simple-Arduino-and-HC-SR04-Example/
+
+https://github.com/br3ttb/Arduino-PID-Library
+
+
