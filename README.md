@@ -23,3 +23,8 @@ See the Fritzing circuit diagram in this repo for how these components were conn
 
 
 ![img_20170708_175459](https://user-images.githubusercontent.com/14288989/27992502-c904039c-64b3-11e7-8098-f2041ea96b31.png)
+
+
+See the video of this in action.
+
+https://youtu.be/4OqoyEGJDGM
